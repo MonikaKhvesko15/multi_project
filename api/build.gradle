@@ -1,0 +1,13 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClass = 'com.epam.App'
+}
+
+dependencies {
+    implementation project(':core')
+}
+
+

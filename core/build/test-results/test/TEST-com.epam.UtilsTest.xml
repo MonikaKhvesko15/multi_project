@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.UtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-29T15:19:29" hostname="DESKTOP-ELV7FJ8" time="0.019">
+  <properties/>
+  <testcase name="isAllPositiveNumbersTest()" classname="com.epam.UtilsTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

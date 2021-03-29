@@ -1,0 +1,8 @@
+//plugins{
+//    id 'java-library'
+//}
+
+dependencies {
+    //api 'com.epam:lib:1.3.5'
+    implementation 'com.epam:lib:1.3.5'
+}
